@@ -4,10 +4,10 @@
     "url": "https://arewebs.com.ve",
     "icon": "https://favicons.githubusercontent.com/arewebs.com.ve",
     "slug": "are-webs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 351,
@@ -15,14 +15,16 @@
     "timeWeek": 343,
     "timeMonth": 354,
     "timeYear": 351,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-23": 1
+    }
   },
   {
     "name": "AreAPI",
     "url": "https://api.arewebs.com.ve",
     "icon": "https://favicons.githubusercontent.com/api.arewebs.com.ve",
     "slug": "are-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +35,8 @@
     "timeWeek": 729,
     "timeMonth": 808,
     "timeYear": 766,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-23": 0
+    }
   }
 ]
