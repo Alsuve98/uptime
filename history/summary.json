@@ -6,15 +6,15 @@
     "slug": "are-webs",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.84%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 352,
-    "timeDay": 389,
-    "timeWeek": 350,
-    "timeMonth": 356,
-    "timeYear": 352,
+    "time": 351,
+    "timeDay": 256,
+    "timeWeek": 342,
+    "timeMonth": 351,
+    "timeYear": 351,
     "dailyMinutesDown": {
       "2022-04-23": 17
     }
@@ -26,15 +26,15 @@
     "slug": "are-api",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.87%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 766,
-    "timeDay": 759,
-    "timeWeek": 656,
-    "timeMonth": 806,
-    "timeYear": 766,
+    "time": 771,
+    "timeDay": 1184,
+    "timeWeek": 663,
+    "timeMonth": 826,
+    "timeYear": 771,
     "dailyMinutesDown": {
       "2022-04-23": 16
     }
