@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 349,
-    "timeDay": 337,
-    "timeWeek": 329,
-    "timeMonth": 354,
+    "timeDay": 380,
+    "timeWeek": 354,
+    "timeMonth": 356,
     "timeYear": 349,
     "dailyMinutesDown": {
       "2022-04-23": 17
@@ -25,18 +25,17 @@
     "icon": "https://favicons.githubusercontent.com/api.arewebs.com.ve",
     "slug": "are-api",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "98.97%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
-    "time": 752,
-    "timeDay": 861,
-    "timeWeek": 643,
-    "timeMonth": 646,
-    "timeYear": 752,
+    "uptime": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.99%",
+    "time": 750,
+    "timeDay": 642,
+    "timeWeek": 655,
+    "timeMonth": 649,
+    "timeYear": 750,
     "dailyMinutesDown": {
-      "2022-06-05": 15,
       "2022-04-23": 16
     }
   }
