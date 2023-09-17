@@ -6,15 +6,15 @@
     "slug": "are-webs",
     "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "97.44%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.63%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.87%",
-    "time": 389,
-    "timeDay": 322,
-    "timeWeek": 286,
+    "time": 388,
+    "timeDay": 214,
+    "timeWeek": 289,
     "timeMonth": 578,
-    "timeYear": 412,
+    "timeYear": 411,
     "dailyMinutesDown": {
       "2023-09-15": 37,
       "2023-09-08": 17,
@@ -25,8 +25,7 @@
       "2022-10-20": 40,
       "2022-10-09": 90,
       "2022-10-06": 58,
-      "2022-10-03": 158,
-      "2022-09-17": 19
+      "2022-10-03": 158
     }
   },
   {
@@ -36,15 +35,15 @@
     "slug": "are-api",
     "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "98.95%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.85%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.66%",
     "time": 855,
-    "timeDay": 2811,
-    "timeWeek": 1803,
+    "timeDay": 1010,
+    "timeWeek": 1866,
     "timeMonth": 1158,
-    "timeYear": 913,
+    "timeYear": 915,
     "dailyMinutesDown": {
       "2023-09-15": 15,
       "2023-09-08": 17,
@@ -59,8 +58,7 @@
       "2022-10-09": 90,
       "2022-10-06": 58,
       "2022-10-03": 230,
-      "2022-09-19": 145,
-      "2022-09-17": 19
+      "2022-09-19": 145
     }
   }
 ]
